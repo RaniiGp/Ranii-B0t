@@ -6,21 +6,32 @@ _Não tem muito o que esclarecer aqui, porém irei compartilhar um pouco de conh
 
 ![R4N11](https://i.imgur.com/YaSc2os.png)
 
-- **Devo executar Rowboat localmente?**
-_Provavelmente sim, RaniiB0t foi desenhado para que possa ser utilizado por outros usuários.. Porém por todavia deve-se da os devidos créditos e não retira-los da página local do bot, assim você será ajudado como ao mesmo tempo estará ajudando o bot.
+**Devo executar Rowboat localmente?**
+- _Provavelmente sim, RaniiB0t foi desenhado para que possa ser utilizado por outros usuários.. Porém por todavia deve-se da os devidos créditos e não retira-los da página local do bot, assim você será ajudado como ao mesmo tempo estará ajudando o bot._
 
-- **Acordo de auto-hospedagem..**
+**Acordo de auto-hospedagem..**
+- _Você não pode usar o logo-tipo ou o nome do Ranii-B0t dentro de bots derivados.._
+- _Você não pode hospedar uma versão pública do Ranii-B0t.._
+- _Você não pode cobrar pelo uso de sua instância do Bot.._
+- _Você não pode fornecer suporte para o Ranii-B0t.._
 
-_Você não pode usar o logo-tipo ou o nome do Ranii-B0t dentro de bots derivados.._
+**Quem criou o Ranii-B0t?**
+- [Ranii - Twitter.](https://twitter.com/RaniiReis)
+- [Ranii - Discord.](https://discord.gg/r2B7ave)
 
-_Você não pode hospedar uma versão pública do Ranii-B0t.._
+## **Lista de Comandos do Ranii-B0t..**
 
-_Você não pode cobrar pelo uso de sua instância do Bot.._
+![R4N11](https://i.imgur.com/gIq0wxk.png)
 
-_Você não pode fornecer suporte para o Ranii-B0t.._
+**Moderação de Servidores no Ranii-B0t..**
+- !mute <@User> _(Silenciará o usuário permanentemente até revogarem o mute.)_
+- !unmute <@User> _(Revogará o usuário que foi mutado permanentemente.)_
+- !kick <@User> <Motivo> _(O usuário será chutado junto com o motivo.)_
+- !ban <@User> <Motivo> _(O usuário será banido junto com o motivo.)_
+  
+**Entretenimento de Servidores no Ranii-B0t..**
+- !cat _(Será enviado em modo aleatório a imagem de gatos fofos.)_
+- !revistinha _(Será enviado um meme bem divertido.)_
+- !palm _(Será enviado um meme de *FacePalm*.)_
 
-- **Quem criou o Ranii-B0t?**
-
-[Ranii - Twitter.](https://twitter.com/RaniiReis)
-
-[Ranii - Discord.](https://discord.gg/r2B7ave)
+**Mais informações digite !helping**
