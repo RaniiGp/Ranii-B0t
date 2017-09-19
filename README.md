@@ -12,10 +12,14 @@ _Provavelmente sim, RaniiB0t foi desenhado para que possa ser utilizado por outr
 - **Acordo de auto-hospedagem..**
 
 _Você não pode usar o logo-tipo ou o nome do Ranii-B0t dentro de bots derivados.._
+
 _Você não pode hospedar uma versão pública do Ranii-B0t.._
+
 _Você não pode cobrar pelo uso de sua instância do Bot.._
+
 _Você não pode fornecer suporte para o Ranii-B0t.._
 
 - **Quem criou o Ranii-B0t?**
 [Ranii - Twitter.](https://twitter.com/RaniiReis)
+
 [Ranii - Discord.](https://discord.gg/r2B7ave)
