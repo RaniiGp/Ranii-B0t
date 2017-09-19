@@ -6,7 +6,7 @@ _Não tem muito o que esclarecer aqui, porém irei compartilhar um pouco de conh
 
 ![R4N11](https://i.imgur.com/YaSc2os.png)
 
-**Devo executar Rowboat localmente?**
+**Devo executar o Ranii-B0t localmente?**
 - _Provavelmente sim, RaniiB0t foi desenhado para que possa ser utilizado por outros usuários.. Porém por todavia deve-se da os devidos créditos e não retira-los da página local do bot, assim você será ajudado como ao mesmo tempo estará ajudando o bot._
 
 **Acordo de auto-hospedagem..**
