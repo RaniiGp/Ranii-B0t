@@ -20,6 +20,7 @@ _Você não pode cobrar pelo uso de sua instância do Bot.._
 _Você não pode fornecer suporte para o Ranii-B0t.._
 
 - **Quem criou o Ranii-B0t?**
+
 [Ranii - Twitter.](https://twitter.com/RaniiReis)
 
 [Ranii - Discord.](https://discord.gg/r2B7ave)
